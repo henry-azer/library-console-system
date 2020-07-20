@@ -1,4 +1,4 @@
-# Console_LibraryManagementSystem
+# Library_Management_System (Console)
 Library Mangement System in console using java.
 This project is for libraries where it can help
 those in charge of the library to control and identify their books and their statistics
